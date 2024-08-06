@@ -1,0 +1,12 @@
+[32m[OK](B[m python3-aiofiles is already installed. Skipping...
+[32m[OK](B[m python-is-python3 is already installed. Skipping...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 59287  100 59287    0     0   201k      0 --:--:-- --:--:-- --:--:--  201k
+#!/bin/sh
+export PYTHONPATH='/var/cache/pypr/package.whl'
+exec python -m pyprland.command $@
+Installed successfully.
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pyprland in /home/anti/.local/lib/python3.12/site-packages (2.4.0)
+Requirement already satisfied: aiofiles<24.0.0,>=23.2.1 in /usr/lib/python3/dist-packages (from pyprland) (23.2.1)

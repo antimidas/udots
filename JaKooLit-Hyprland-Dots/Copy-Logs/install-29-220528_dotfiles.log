@@ -1,0 +1,27 @@
+Debian/Ubuntu based distro. Disabling pyprland
+[33m[NOTE](B[m kb_layout us configured in settings.  
+Simple sddm exists. Editing to 12H format
+12H format set to SDDM theme successfully.
+You chose ≥ 1440p resolution for better Rofi appearance.
+[33m[NOTE](B[m Wallpapers downloaded successfully.
+[33m[NOTE](B[m Wallpapers copied successfully.
+[[1m[34mI[39m[0m] [1m[35mimage[39m[0m: .wallpaper_modified
+[[1m[34mI[39m[0m] [1m[35mimage parser[39m[0m: Using [94m[1mKmeans[0m[39m backend parser
+[[1m[34mI[39m[0m] [1m[35mthreshold[39m[0m: Using a threshold of 10 in between colors.
+[[1m[34mI[39m[0m] [1m[35mcolorspace[39m[0m: Using [35m[1mLch[0m[39m colorspace variation
+[[1m[34mI[39m[0m] [1m[35mscheme palette[39m[0m: Using [94m[1mDark16[0m[39m palette
+▐⠂       ▌     0.000 s	Generating color scheme..▐⠈       ▌     0.080 s	Generating color scheme..▐ ⠂      ▌     0.161 s	Generating color scheme..▐ ⠠      ▌     0.208 s	Generating color scheme..[2K[[1m[34mI[39m[0m] Not enough colors in the image, artificially generating new colors...
+[[1m[34mI[39m[0m] [1m[35mfallback generation method[39m[0m: Using [34mInterpolate[39m to fill the palette
+[[1m[34mI[39m[0m] Color scheme palette generated!
+
+[48;2;33;45;36m    [49m[48;2;50;65;102m    [49m[48;2;17;96;107m    [49m[48;2;42;56;89m    [49m[48;2;104;80;102m    [49m[48;2;12;21;35m    [49m[48;2;10;18;31m    [49m[48;2;126;131;140m    [49m
+[48;2;88;92;98m    [49m[48;2;66;87;136m    [49m[48;2;22;128;143m    [49m[48;2;56;75;118m    [49m[48;2;138;107;136m    [49m[48;2;16;28;47m    [49m[48;2;13;24;41m    [49m[48;2;126;131;140m    [49m
+
+[[1m[34mI[39m[0m] [1m[35mtemplates[39m[0m: Writing templates..
+  * Templated [1mhypr[0m to '[3m~/.config/hypr/wallust/wallust-hyprland.conf[0m'
+  * Templated [1mrofi[0m to '[3m~/.config/rofi/wallust/colors-rofi.rasi[0m'
+  * Templated [1mcava[0m to '[3m~/.config/cava/config[0m'
+  * Templated [1mwaybar[0m to '[3m~/.config/waybar/wallust/colors-waybar.css[0m'
+[[1m[34mI[39m[0m] [1m[35mcache[39m[0m: Saving scheme to cache.
+
+[5m[1m[38;2;126;131;140mE [39m[0m[0m[5m[1m[38;2;13;24;41mN [39m[0m[0m[5m[1m[38;2;16;28;47mJ [39m[0m[0m[5m[1m[38;2;138;107;136mO [39m[0m[0m[5m[1m[38;2;56;75;118mY [39m[0m[0m[9m  [0m[5m[1m[38;2;22;128;143mT [39m[0m[0m[5m[1m[38;2;66;87;136mH [39m[0m[0m[5m[1m[38;2;88;92;98mE [39m[0m[0m[9m  [0m[5m[1m[38;2;126;131;140mP [39m[0m[0m[5m[1m[38;2;10;18;31mA [39m[0m[0m[5m[1m[38;2;12;21;35mL [39m[0m[0m[5m[1m[38;2;104;80;102mE [39m[0m[0m[5m[1m[38;2;42;56;89mT [39m[0m[0m[5m[1m[38;2;17;96;107mT [39m[0m[0m[5m[1m[38;2;50;65;102mE [39m[0m[0m[5m[1m[38;2;170;174;180m! [39m[0m[0m

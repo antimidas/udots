@@ -1,0 +1,168 @@
+[33m[NOTE](B[m Installing cargo ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+The following packages were automatically installed and are no longer required:
+  gir1.2-dbusmenu-glib-0.4 gir1.2-dbusmenu-gtk3-0.4 gir1.2-rsvg-2.0
+  gir1.2-dbusmenu-glib-0.4 gir1.2-dbusmenu-gtk3-0.4 gir1.2-rsvg-2.0
+  libdbusmenu-glib-dev libjpeg62
+Use 'sudo apt autoremove' to remove them.
+  libdbusmenu-glib-dev libjpeg62
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  rustc
+The following additional packages will be installed:
+  rustc
+Suggested packages:
+  cargo-doc llvm-17 lld-17 clang-17
+Suggested packages:
+  cargo-doc llvm-17 lld-17 clang-17
+The following packages will be REMOVED:
+The following packages will be REMOVED:
+  rustup
+The following NEW packages will be installed:
+  rustup
+The following NEW packages will be installed:
+  cargo rustc
+  cargo rustc
+0 upgraded, 2 newly installed, 1 to remove and 0 not upgraded.
+Need to get 0 B/9,237 kB of archives.
+After this operation, 25.4 MB of additional disk space will be used.
+0 upgraded, 2 newly installed, 1 to remove and 0 not upgraded.
+Need to get 0 B/9,237 kB of archives.
+After this operation, 25.4 MB of additional disk space will be used.
+(Reading database ... (Reading database ... (Reading database ... 5%(Reading database ... 5%(Reading database ... 10%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 20%(Reading database ... 25%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 186872 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 186872 files and directories currently installed.)
+Removing rustup (1.26.0-5build1) ...
+Removing rustup (1.26.0-5build1) ...
+Selecting previously unselected package rustc.
+(Reading database ... Selecting previously unselected package rustc.
+(Reading database ... (Reading database ... 5%(Reading database ... 5%(Reading database ... 10%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 20%(Reading database ... 25%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 186848 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 186848 files and directories currently installed.)
+Preparing to unpack .../rustc_1.75.0+dfsg0ubuntu1-0ubuntu7_amd64.deb ...
+Preparing to unpack .../rustc_1.75.0+dfsg0ubuntu1-0ubuntu7_amd64.deb ...
+Unpacking rustc (1.75.0+dfsg0ubuntu1-0ubuntu7) ...
+Unpacking rustc (1.75.0+dfsg0ubuntu1-0ubuntu7) ...
+Selecting previously unselected package cargo.
+Selecting previously unselected package cargo.
+Preparing to unpack .../cargo_1.75.0+dfsg0ubuntu1-0ubuntu7_amd64.deb ...
+Preparing to unpack .../cargo_1.75.0+dfsg0ubuntu1-0ubuntu7_amd64.deb ...
+Unpacking cargo (1.75.0+dfsg0ubuntu1-0ubuntu7) ...
+Unpacking cargo (1.75.0+dfsg0ubuntu1-0ubuntu7) ...
+Setting up rustc (1.75.0+dfsg0ubuntu1-0ubuntu7) ...
+Setting up rustc (1.75.0+dfsg0ubuntu1-0ubuntu7) ...
+Setting up cargo (1.75.0+dfsg0ubuntu1-0ubuntu7) ...
+Setting up cargo (1.75.0+dfsg0ubuntu1-0ubuntu7) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+
+Running kernel seems to be up-to-date.
+
+The processor microcode seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+
+Running kernel seems to be up-to-date.
+
+The processor microcode seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+[1A[K[32m[OK](B[m cargo was installed.
+[32m[OK](B[m liblz4-dev is already installed. Skipping...
+[32m[OK](B[m rustc is already installed. Skipping...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  gir1.2-dbusmenu-glib-0.4 gir1.2-dbusmenu-gtk3-0.4 gir1.2-rsvg-2.0
+  libdbusmenu-glib-dev libjpeg62
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 1 reinstalled, 0 to remove and 0 not upgraded.
+Need to get 0 B/6,053 kB of archives.
+After this operation, 0 B of additional disk space will be used.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 186924 files and directories currently installed.)
+Preparing to unpack .../cargo_1.75.0+dfsg0ubuntu1-0ubuntu7_amd64.deb ...
+Unpacking cargo (1.75.0+dfsg0ubuntu1-0ubuntu7) over (1.75.0+dfsg0ubuntu1-0ubuntu7) ...
+Setting up cargo (1.75.0+dfsg0ubuntu1-0ubuntu7) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+
+Running kernel seems to be up-to-date.
+
+The processor microcode seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  gir1.2-dbusmenu-glib-0.4 gir1.2-dbusmenu-gtk3-0.4 gir1.2-rsvg-2.0
+  libdbusmenu-glib-dev libjpeg62
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 1 reinstalled, 0 to remove and 0 not upgraded.
+Need to get 0 B/87.6 kB of archives.
+After this operation, 0 B of additional disk space will be used.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 186924 files and directories currently installed.)
+Preparing to unpack .../liblz4-dev_1.9.4-1build1_amd64.deb ...
+Unpacking liblz4-dev:amd64 (1.9.4-1build1) over (1.9.4-1build1) ...
+Setting up liblz4-dev:amd64 (1.9.4-1build1) ...
+
+Running kernel seems to be up-to-date.
+
+The processor microcode seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  gir1.2-dbusmenu-glib-0.4 gir1.2-dbusmenu-gtk3-0.4 gir1.2-rsvg-2.0
+  libdbusmenu-glib-dev libjpeg62
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 1 reinstalled, 0 to remove and 0 not upgraded.
+Need to get 0 B/3,183 kB of archives.
+After this operation, 0 B of additional disk space will be used.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 186924 files and directories currently installed.)
+Preparing to unpack .../rustc_1.75.0+dfsg0ubuntu1-0ubuntu7_amd64.deb ...
+Unpacking rustc (1.75.0+dfsg0ubuntu1-0ubuntu7) over (1.75.0+dfsg0ubuntu1-0ubuntu7) ...
+Setting up rustc (1.75.0+dfsg0ubuntu1-0ubuntu7) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+
+Running kernel seems to be up-to-date.
+
+The processor microcode seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
